@@ -96,3 +96,10 @@ Create a DataFrame called size_summary that breaks down school performance based
 Use the per_school_summary DataFrame from the previous step to create a new DataFrame called type_summary.
 
 This new DataFrame should show school performance based on the "School Type".
+
+# PyCity Schools Analysis
+
+- In all the fifteen schools the students have better performance in reading than in math.
+- Charter schools have a better performance in math and reading than district schools.
+- Schools with a lower spending range per student have a better overall passing percentage.
+- Large size schools have a lower overall passing percentage.
